@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "builder": "*"
+        "builder": "*",
+        "test": "github:lrc1216/mcee_rep#1d936fb00cb43ceb9a68bb7060b60e3abc25e108"
     },
     "files": [
         "main.blocks",
